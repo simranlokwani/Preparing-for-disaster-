@@ -1,2 +1,6 @@
 # Preparing-for-disaster-
-app development for people to save their lives in any natural disaster and predict the places where it may happen.
+App development for people to save their lives in any natural disaster and predict the places where it may happen.
+Our app will collect the weather forecasting data from the weather and natural disaster forecasting organisations through their websites.
+When a person installs the app, he/ she has to fill some details like phone number, permanent address and temporary address and also family members' detail(ex their phone no.).
+Through the GPS, the app tracks the person's current location. If the place is predicted to be proned to a natural disaster Then the app gives him/her a notification that his current location is in danger. It will also suggest him where to go and also aome nearby helpline numbers. IF the probablity of disaster is high then the app will display his number and location. Display is for rescue operation team who will see the person's current location and will try to save him. The family members will also get the notification describing about their family member's situation.
+If the forecasting was not done and the place faces an unprobable disaster, then family members will get the notification that the person is in this place and here an accident has happen. Also the rescue team nearby will get the details of the person and through GPS they can track and find him/her.
